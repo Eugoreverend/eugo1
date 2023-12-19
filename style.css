@@ -1,4 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=Poppins:wght@400;500;600;700&family=Roboto:wght@300&display=swap');
 
+:root {
+    --primary: #fff;
+    --bg-color: #5b5e8b;
+    --bg-envelope-color: #f5edd1;
     --envelope-tab: #ecdeb8;
     --envelope-cover: #e6cfa7;
     --shadow-color: rgba(0, 0, 0, 0.2);
